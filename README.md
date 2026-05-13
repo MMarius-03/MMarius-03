@@ -1,16 +1,25 @@
-## Hi there 👋
+```text
+██╗  ██╗███████╗██╗     ██╗      ██████╗ 
+██║  ██║██╔════╝██║     ██║     ██╔═══██╗
+███████║█████╗  ██║     ██║     ██║   ██║
+██╔══██║██╔══╝  ██║     ██║     ██║   ██║
+██║  ██║███████╗███████╗███████╗╚██████╔╝
+╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝ 
+   \\     \\      \\      \\       \\
+    \\     \\      \\      \\       \\
+     \\_____\\______\\______\\_______\\
+```
 
-<!--
-**MMarius-03/MMarius-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```zsh
+~> ls links
+Github: @MMarius-03
+LinkedIn: linkedin.com/in/your-profile
+Portfolio: your-website.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+~> finger marius
+Login: marius           Name: Marius
+Directory: /home/marius Shell: /bin/bash
+Project:
+- building sleek, terminal-inspired web interfaces
+- learning modern frameworks and system design
+```
