@@ -13,7 +13,7 @@
 ```zsh
 ~> ls links
 Github: @MMarius-03
-LinkedIn: linkedin.com/in/your-profile
+LinkedIn: linkedin.com/in/marius-manolache-659554373
 Portfolio: your-website.com
 
 ~> finger marius
