@@ -2,11 +2,10 @@
 
 I write Go and Python software for work that involves spreadsheets, PDFs, and existing systems. Recent projects include Windows services, local browser apps, and desktop tools.
 
-[Portfolio](https://marius-portfolio.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/marius-manolache-659554373/) · [Email](mailto:manomarius03@yahoo.com)
+[LinkedIn](https://www.linkedin.com/in/marius-manolache-659554373/) · [Email](mailto:manomarius03@yahoo.com)
 
 ## My own work
 
-- [Portfolio](https://marius-portfolio.netlify.app/) — this site, with short write-ups of selected projects.
 - [LocalAI](https://github.com/MMarius-03/localAI) — a FastAPI service connecting local Ollama models to document, chart, and web tools.
 - [René](https://github.com/MMarius-03/Ren) — a website concept for a Frappe-based meat production platform. The repo contains the site, not the ERP backend.
 
